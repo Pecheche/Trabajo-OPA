@@ -1,0 +1,21 @@
+C:\Users\David\source\repos\Prueba_OPA\Prueba_OPA\bin\Debug\Prueba_OPA.exe.config
+C:\Users\David\source\repos\Prueba_OPA\Prueba_OPA\bin\Debug\Prueba_OPA.exe
+C:\Users\David\source\repos\Prueba_OPA\Prueba_OPA\bin\Debug\Prueba_OPA.pdb
+C:\Users\David\source\repos\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.exe
+C:\Users\David\source\repos\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.pdb
+C:\Users\Sena\Downloads\OPA\Prueba_OPA\Prueba_OPA\bin\Debug\Prueba_OPA.exe.config
+C:\Users\Sena\Downloads\OPA\Prueba_OPA\Prueba_OPA\bin\Debug\Prueba_OPA.exe
+C:\Users\Sena\Downloads\OPA\Prueba_OPA\Prueba_OPA\bin\Debug\Prueba_OPA.pdb
+C:\Users\Sena\Downloads\OPA\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.csprojAssemblyReference.cache
+C:\Users\Sena\Downloads\OPA\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Downloads\OPA\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.exe
+C:\Users\Sena\Downloads\OPA\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.pdb
+C:\Users\Sena\Desktop\Trabajo OPA\Prueba_OPA\Prueba_OPA\bin\Debug\Prueba_OPA.exe.config
+C:\Users\Sena\Desktop\Trabajo OPA\Prueba_OPA\Prueba_OPA\bin\Debug\Prueba_OPA.exe
+C:\Users\Sena\Desktop\Trabajo OPA\Prueba_OPA\Prueba_OPA\bin\Debug\Prueba_OPA.pdb
+C:\Users\Sena\Desktop\Trabajo OPA\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.csprojAssemblyReference.cache
+C:\Users\Sena\Desktop\Trabajo OPA\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\Trabajo OPA\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.exe
+C:\Users\Sena\Desktop\Trabajo OPA\Prueba_OPA\Prueba_OPA\obj\Debug\Prueba_OPA.pdb
